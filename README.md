@@ -8,7 +8,7 @@ The motivation is as follows: StackOverflow is an important source of documentat
 Resulting clusters:
 
   Score |  Dominant language | (%percent)  |  Questions
-------- |------------------- |------------ | ----------
+------- | ------------------ | ----------- | ----------
       0 |  Groovy            | (100.0%)    |       1631
       0 |  MATLAB            | (100.0%)    |       3725
       1 |  C#                | (100.0%)    |     361835
