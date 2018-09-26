@@ -6,6 +6,7 @@ dataset: http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv
 The motivation is as follows: StackOverflow is an important source of documentation. However, different user-provided answers may have very different ratings (based on user votes) based on their perceived value. Therefore, we would like to look at the distribution of questions and their answers. For example, how many highly-rated answers do StackOverflow users post, and how high are their scores? Are there big differences between higher-rated answers and lower-rated ones?
 
 Resulting clusters:
+
   Score |  Dominant language | (%percent)  |  Questions
 ------- |------------------- |------------ | ----------
       0 |  Groovy            | (100.0%)    |       1631
